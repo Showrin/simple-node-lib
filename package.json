@@ -1,0 +1,19 @@
+{
+  "name": "simple-node-lib",
+  "version": "1.0.0",
+  "description": "A simple react component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Showrin/simple-node-lib.git"
+  },
+  "author": "Showrin Barua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Showrin/simple-node-lib/issues"
+  },
+  "homepage": "https://github.com/Showrin/simple-node-lib#readme"
+}
